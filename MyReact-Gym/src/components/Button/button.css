@@ -1,0 +1,16 @@
+button{
+    background-color:rgb(155, 9, 9);
+    padding: 10px;
+    border-radius: 10px;
+    border: 0;
+    color: white;
+    box-shadow: 0 10px 30px rgba(235, 235, 235 , 0.4);
+    transition: 0.5s;
+    font-weight: 300;
+    width: 100px;
+}
+button:hover {
+    background-color: white;
+    color: rgb(155, 9, 9);
+    transform: translateY(-4px);
+}

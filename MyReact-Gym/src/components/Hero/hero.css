@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.containerr{
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px ;
+
+}
+.lt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    margin-right: 50px;
+    gap: 20px;
+}
+
+.hero-btn{
+    width: 20px;
+}
+
+.rt{
+    width: 50%;
+}
+.imgg{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgg img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+
+}
