@@ -1,6 +1,6 @@
 import "./hero.css"
 import Button from '../Button/Button'
-import gymimage from'../../assets/images/gymim.jpg.jpg'
+import gymimage from'../../assets/images/334ed8109092213.5fcf8050121d5.jpg'
 function Hero() {
   return (
     <>
