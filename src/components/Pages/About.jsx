@@ -4,7 +4,7 @@ import gymvidei from '../../assets/images/gym.mp4.mp4'
 function About() {
   return (
     <>
-    <div className="containerr">
+    <div className="containerr" id='about'>
       <div className='gym1'>
         <video className='gymvidei' src={gymvidei} autoPlay loop></video>
           <div className="text-over"></div>

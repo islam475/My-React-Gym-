@@ -4,7 +4,9 @@ import gymimage from'../../assets/images/334ed8109092213.5fcf8050121d5.jpg'
 function Hero() {
   return (
     <>
-    <div className="containerr">
+    <section className="hero">
+
+    <div className="container">
         <section className="lt">
             <h1>Boshkash</h1>
             <p>the cheapest  in Egypt -even cheaper than Ezz eldekhela</p>
@@ -18,6 +20,7 @@ function Hero() {
             </div>
         </section>
     </div>
+    </section>
     </>
   )
 }
